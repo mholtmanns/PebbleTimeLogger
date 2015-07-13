@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "markus@holtmanns.eu",
+    "longName": "TimeLogger",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "TimeLogger",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0c438032-4b20-4790-9843-070805f87a56",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
